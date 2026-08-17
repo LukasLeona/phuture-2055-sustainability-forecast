@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "PHuture 2055: Philippine Population and Resource Sustainability Outlook"
+message: "If you use this project, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Leona
+    given-names: Luke Mark P.
+year: 2026
+license: MIT
+version: 1.0.0
+abstract: >-
+  A reproducible machine learning and scenario-analysis notebook that studies
+  Philippine population, electricity, food and freshwater through 2055.
+keywords:
+  - Philippines
+  - machine learning
+  - forecasting
+  - population
+  - sustainability
+  - Jupyter Notebook
