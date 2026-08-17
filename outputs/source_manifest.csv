@@ -1,0 +1,8 @@
+source,url,cached_file,retrieved_utc,latest_data_year
+UN World Population Prospects 2024,https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz,data/raw/WPP2024_Demographic_Indicators_Medium.csv.gz,2026-08-17T15:39:18+00:00,2055
+World Bank population,https://api.worldbank.org/v2/country/PHL/indicator/SP.POP.TOTL?format=json&per_page=100,data/raw/world_bank_SP_POP_TOTL.csv,2026-08-17T15:39:18+00:00,2025
+World Bank / FAO AQUASTAT renewable freshwater,https://api.worldbank.org/v2/country/PHL/indicator/ER.H2O.INTR.K3?format=json&per_page=100,data/raw/world_bank_ER_H2O_INTR_K3.csv,2026-08-17T15:39:18+00:00,2022
+World Bank / FAO AQUASTAT freshwater withdrawals,https://api.worldbank.org/v2/country/PHL/indicator/ER.H2O.FWTL.K3?format=json&per_page=100,data/raw/world_bank_ER_H2O_FWTL_K3.csv,2026-08-17T15:39:18+00:00,2022
+World Bank / FAO AQUASTAT water stress,https://api.worldbank.org/v2/country/PHL/indicator/ER.H2O.FWST.ZS?format=json&per_page=100,data/raw/world_bank_ER_H2O_FWST_ZS.csv,2026-08-17T15:39:18+00:00,2022
+FAOSTAT Food Security Indicators,https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip,data/raw/faostat_food_security.zip,2026-08-17T15:39:27+00:00,2024
+Our World in Data Energy Dataset,https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv,data/raw/owid-energy-data.csv,2026-08-17T15:39:27+00:00,2025

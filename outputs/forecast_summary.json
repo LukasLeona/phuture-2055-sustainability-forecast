@@ -1,0 +1,22 @@
+{
+  "generated_utc": "2026-08-17T15:39:28+00:00",
+  "forecast_end": 2055,
+  "population_source_for_scenarios": "UN World Population Prospects 2024 medium variant",
+  "population_2055_millions": 135.139,
+  "psa_scenario_2_2055_millions": 138.67,
+  "baseline": {
+    "electricity_coverage_2055_pct": 96.14,
+    "first_electricity_below_90_year": ">2055",
+    "food_adequacy_2055_pct": 136.56,
+    "first_food_below_100_year": ">2055",
+    "renewable_water_2055_m3_per_person": 3544.5,
+    "first_water_below_1700_year": ">2055"
+  },
+  "selected_models": {
+    "population_comparison": "Polynomial ridge",
+    "electricity_generation": "Damped Holt",
+    "electricity_demand_per_capita": "Damped Holt",
+    "food_adequacy": "Damped Holt"
+  },
+  "disclaimer": "Scenario-based portfolio analysis; not an official forecast or collapse prediction."
+}
